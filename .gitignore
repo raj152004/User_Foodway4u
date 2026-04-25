@@ -1,0 +1,9 @@
+node_modules
+.env*
+.next
+logs
+*.log
+.env
+.env.production
+node_modules
+logs
